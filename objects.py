@@ -1,4 +1,4 @@
-# Opdracht 4  --  objects
+# Opdracht 6  --  objects
 #   maak een 'koe' object met de member functions: loei (print "boehhh" naar de console) en eet_gras (print "yummy" naar de console)
 #
 #
