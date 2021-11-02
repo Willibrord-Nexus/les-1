@@ -13,5 +13,4 @@ Maak een programma dat simpelweg een regel naar de *console* schrijft, tradition
 Maak een programma dat **zonder gebruik te maken van (zelf-gedefinieerde) functies maar met minstens 1 variabele** 2 getallen bij elkaar optelt en het resultaat naar de *console* schrijft.
 ### Opgave 3: Functies (`functions.py`)
 Maak een programma dat **met minstens 1 functie** 2 getallen vermenigvuldigt en het resultaat naar de *console* schrijft.
-### Opgave 4: Objects (`objects.py`)
-Definieer een object en geef deze minstens 3 *member variables*. V
+> Andere opgaven worden nog toegevoegd maar zijn wel al in te zien, zie de bestanden.
